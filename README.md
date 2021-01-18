@@ -22,4 +22,4 @@ Paste the function URL in your browser's address bar and add the following query
 
 ![20487D_Images](https://github.com/ialcaidef/HTTP-triggered-Azure-Function/blob/main/05.png)
 
-![20487D_Images](https://github.com/ialcaidef/HTTP-triggered-Azure-Function/blob/main/06.png)
+
